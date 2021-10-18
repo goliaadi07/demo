@@ -1,14 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "bookl":[
+        {
+            "id": "1",
+            "image":
+              "https://m.media-amazon.com/images/I/61ZNAnIrwwL._AC_UY327_FMwebp_QL65_.jpg",
+            "name": "Eat That Frog",
+            "author": "Brain Tracy",
+            "price":100
+        },
+        {
+            "id": "2",
+            "image":
+            "https://m.media-amazon.com/images/I/81eB+7+CkUL._AC_UY327_FMwebp_QL65_.jpg",
+            "name":"I Love You To The Moon And Back",
+            "author": "Brain Tracy",
+            "price":50
+          }, 
+          {
+            "id": "3",
+            "image":
+              "https://m.media-amazon.com/images/I/61ZNAnIrwwL._AC_UY327_FMwebp_QL65_.jpg",
+            "name": "Eat That Frog",
+            "author": "Brain Tracy",
+            "price":60
+          },
+          {
+            "id": "4",
+            "image":
+              "https://m.media-amazon.com/images/I/61ZNAnIrwwL._AC_UY327_FMwebp_QL65_.jpg",
+            "name": "Eat That Frog",
+            "author": "Brain Tracy",
+            "price":70
+          },
+          {
+            "id": "5",
+            "image":
+            "https://m.media-amazon.com/images/I/81eB+7+CkUL._AC_UY327_FMwebp_QL65_.jpg",
+            "name":"I Love You To The Moon And Back",
+            "author": "Brain Tracy",
+            "price":80
+          }
+    ]
 }
